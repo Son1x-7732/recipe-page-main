@@ -21,8 +21,8 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 
 ### Links
 
-- Solution URL: (https://your-solution-url.com)
-- Live Site URL: (https://your-live-site-url.com)
+- Solution URL: [Click Here](https://github.com/Son1x-7732/recipe-page-main.git)
+- Live Site URL: [Click Here](https://recipe-page7732.netlify.app/)
 
 ## My process
 
@@ -45,7 +45,7 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 ## Author
 
 - Website - [Cliffybadger](https://github.com/Son1x-7732)
-- Frontend Mentor - (https://www.frontendmentor.io/profile/Son1x-7732)
+- Frontend Mentor - [Son1x](https://www.frontendmentor.io/profile/Son1x-7732)
 
 **Have fun building!** 🚀
 
